@@ -1,0 +1,16 @@
+{
+  "name": "harvest-notes-checker",
+  "version": "0.2.2",
+  "description": "Browser extension that checks Harvest's detailes reports for incomplete, short or empty notes",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build",
+    "build:userscript" : "webpack --config userscript/webpack.config.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "webextension-toolbox": "latest",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Harvest Notes Checker",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "HrvstNtsChkr",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Browser extension that checks Harvest's details reports for incomplete, short or empty notes",
+    "description": "The description of the application"
+  }
+}
