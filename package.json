@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "webextension-toolbox dev",
     "build": "webextension-toolbox build",
-    "build:userscript" : "webpack --config userscript/webpack.config.js"
+    "build:userscript": "webpack --config userscript/webpack.config.js"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
