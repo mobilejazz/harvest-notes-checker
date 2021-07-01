@@ -13,7 +13,7 @@ class HarvestNotesChecker {
     harvestSummaryElementId = 'dtr-summary';
     harvestEntryTimeSelector = 'tr.entry-has-notes td:last-child';
     harvestEntryNotesSelector = 'tr.entry-notes td:last-child p';
-    harvestTableRowSelector = '#dtr-table tbody tr';
+    harvestTableRowSelector = '#dtr-table tbody tr[data-record-id]';
 
     constructor() {
         window.addEventListener('load',() => {

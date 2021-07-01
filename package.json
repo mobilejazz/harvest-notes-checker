@@ -1,6 +1,6 @@
 {
   "name": "harvest-notes-checker",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Browser extension that checks Harvest's detailes reports for incomplete, short or empty notes",
   "scripts": {
     "dev": "webextension-toolbox dev",
