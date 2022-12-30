@@ -10,7 +10,7 @@
   "devDependencies": {
     "eslint": "^5.16.0",
     "webextension-toolbox": "latest",
-    "webpack": "^4.30.0",
-    "webpack-cli": "^3.3.0"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
